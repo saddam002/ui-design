@@ -1,4 +1,5 @@
 import React from "react";
+import { RiArrowRightUpLine } from "@remixicon/react";
 
 function LeftContent() {
   return (
@@ -16,7 +17,7 @@ function LeftContent() {
         </p>
       </div>
       <div>
-        <p>Arrow</p>
+        <RiArrowRightUpLine size={60} />
       </div>
     </div>
   );
