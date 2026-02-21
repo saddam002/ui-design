@@ -4,7 +4,7 @@ import RightContent from "./RightContent";
 
 function Section() {
   return (
-    <div className="flex justify-between h-[87vh] gap-2.5 px-6">
+    <div className="flex justify-between h-[79vh] gap-2.5 px-6">
       <LeftContent />
       <RightContent />
     </div>
